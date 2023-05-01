@@ -1,0 +1,3 @@
+Slack clone: 
+
+	i utilised firebase hooks to fetch data from firebase
